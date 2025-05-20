@@ -435,6 +435,29 @@
         {
           "bbox": [
             317.95499,
+            232.48476000000005,
+            559.80579,
+            251.91701
+          ],
+          "page": 1,
+          "span": [
+            0,
+            84
+          ],
+          "__ref_s3_data": null
+        }
+      ],
+      "text": "Figure 1: Four examples of complex page layouts across different document categories",
+      "type": "caption",
+      "payload": null,
+      "name": "Caption",
+      "font": null
+    },
+    {
+      "prov": [
+        {
+          "bbox": [
+            317.95499,
             189.22498999999993,
             379.8205,
             199.53409
@@ -969,6 +992,29 @@
         {
           "bbox": [
             53.79800000000001,
+            536.45276,
+            294.04373,
+            555.88501
+          ],
+          "page": 3,
+          "span": [
+            0,
+            69
+          ],
+          "__ref_s3_data": null
+        }
+      ],
+      "text": "Figure 2: Distribution of DocLayNet pages across document categories.",
+      "type": "caption",
+      "payload": null,
+      "name": "Caption",
+      "font": null
+    },
+    {
+      "prov": [
+        {
+          "bbox": [
+            53.79800000000001,
             425.10983,
             294.27383,
             510.1964699999999
@@ -1226,6 +1272,29 @@
       "name": "Picture",
       "type": "figure",
       "$ref": "#/figures/2"
+    },
+    {
+      "prov": [
+        {
+          "bbox": [
+            53.79800000000001,
+            185.68075999999996,
+            295.64874,
+            237.99000999999998
+          ],
+          "page": 4,
+          "span": [
+            0,
+            281
+          ],
+          "__ref_s3_data": null
+        }
+      ],
+      "text": "Figure 3: Corpus Conversion Service annotation user interface. The PDF page is shown in the background, with overlaid text-cells (in darker shades). The annotation boxes can be drawn by dragging a rectangle over each segment with the respective label from the palette on the right.",
+      "type": "caption",
+      "payload": null,
+      "name": "Caption",
+      "font": null
     },
     {
       "prov": [
@@ -1807,6 +1876,29 @@
       "name": "Picture",
       "type": "figure",
       "$ref": "#/figures/4"
+    },
+    {
+      "prov": [
+        {
+          "bbox": [
+            317.95499,
+            449.71581999999995,
+            559.80579,
+            512.98401
+          ],
+          "page": 6,
+          "span": [
+            0,
+            329
+          ],
+          "__ref_s3_data": null
+        }
+      ],
+      "text": "Figure 5: Prediction performance (mAP@0.5-0.95) of a Mask R-CNN network with ResNet50 backbone trained on increasing fractions of the DocLayNet dataset. The learning curve flattens around the 80% mark, indicating that increasing the size of the DocLayNet dataset with similar data will not yield significantly better predictions.",
+      "type": "caption",
+      "payload": null,
+      "name": "Caption",
+      "font": null
     },
     {
       "prov": [
@@ -2706,6 +2798,29 @@
       "prov": [
         {
           "bbox": [
+            62.323874999999994,
+            343.73517,
+            318.50473,
+            349.71457
+          ],
+          "page": 9,
+          "span": [
+            0,
+            89
+          ],
+          "__ref_s3_data": null
+        }
+      ],
+      "text": "Text Caption List-Item Formula Table Section-Header Picture Page-Header Page-Footer Title",
+      "type": "caption",
+      "payload": null,
+      "name": "Caption",
+      "font": null
+    },
+    {
+      "prov": [
+        {
+          "bbox": [
             53.79800000000001,
             286.16876,
             559.80786,
@@ -2984,9 +3099,9 @@
       "prov": [
         {
           "bbox": [
-            323.408203125,
-            266.1492919921875,
-            553.2952270507812,
+            323.4081115722656,
+            266.14935302734375,
+            553.295166015625,
             541.6512603759766
           ],
           "page": 1,
@@ -3007,9 +3122,9 @@
         {
           "bbox": [
             88.33030700683594,
-            571.4317321777344,
+            571.4317626953125,
             263.7049560546875,
-            699.1134796142578
+            699.1134490966797
           ],
           "page": 3,
           "span": [
@@ -3029,9 +3144,9 @@
         {
           "bbox": [
             53.05912780761719,
-            251.135986328125,
+            251.1358642578125,
             295.8506164550781,
-            481.2087097167969
+            481.20867919921875
           ],
           "page": 4,
           "span": [
@@ -3119,9 +3234,9 @@
         {
           "bbox": [
             98.93103790283203,
-            497.91851806640625,
+            497.91845703125,
             512.579833984375,
-            654.5245208740234
+            654.5244903564453
           ],
           "page": 4,
           "span": [
@@ -8038,7 +8153,7 @@
             62.02753829956055,
             440.3381042480469,
             285.78955078125,
-            596.3199310302734
+            596.3199462890625
           ],
           "page": 6,
           "span": [
@@ -10399,9 +10514,9 @@
       "prov": [
         {
           "bbox": [
-            80.35525512695312,
+            80.35527038574219,
             496.5545349121094,
-            267.0082092285156,
+            267.00823974609375,
             641.0637054443359
           ],
           "page": 7,
@@ -14099,10 +14214,10 @@
       "prov": [
         {
           "bbox": [
-            72.6590347290039,
-            452.1459655761719,
-            274.83465576171875,
-            619.5191955566406
+            72.65901947021484,
+            452.14599609375,
+            274.8346862792969,
+            619.5191650390625
           ],
           "page": 8,
           "span": [
